@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "G:\\tok\\StrickPoint\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\pop2.png",
+        "source": "G:\\tok\\StrickPoint\\app\\src\\main\\res\\mipmap-hdpi\\pop2.png"
+    },
+    {
+        "merged": "G:\\tok\\StrickPoint\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\ic_launcher_round.png",
+        "source": "G:\\tok\\StrickPoint\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "G:\\tok\\StrickPoint\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\ic_launcher.png",
+        "source": "G:\\tok\\StrickPoint\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "G:\\tok\\StrickPoint\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\pop4.png",
+        "source": "G:\\tok\\StrickPoint\\app\\src\\main\\res\\mipmap-hdpi\\pop4.png"
+    },
+    {
+        "merged": "G:\\tok\\StrickPoint\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\pop1.png",
+        "source": "G:\\tok\\StrickPoint\\app\\src\\main\\res\\mipmap-hdpi\\pop1.png"
+    },
+    {
+        "merged": "G:\\tok\\StrickPoint\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\pop5.png",
+        "source": "G:\\tok\\StrickPoint\\app\\src\\main\\res\\mipmap-hdpi\\pop5.png"
+    },
+    {
+        "merged": "G:\\tok\\StrickPoint\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\pop3.png",
+        "source": "G:\\tok\\StrickPoint\\app\\src\\main\\res\\mipmap-hdpi\\pop3.png"
+    }
+]

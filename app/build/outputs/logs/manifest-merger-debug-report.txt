@@ -1,0 +1,87 @@
+-- Merging decision tree log ---
+manifest
+ADDED from G:\tok\StrickPoint\app\src\main\AndroidManifest.xml:2:1-21:12
+	package
+		ADDED from G:\tok\StrickPoint\app\src\main\AndroidManifest.xml:3:5-35
+		INJECTED from G:\tok\StrickPoint\app\src\main\AndroidManifest.xml
+		INJECTED from G:\tok\StrickPoint\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from G:\tok\StrickPoint\app\src\main\AndroidManifest.xml
+		INJECTED from G:\tok\StrickPoint\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from G:\tok\StrickPoint\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from G:\tok\StrickPoint\app\src\main\AndroidManifest.xml
+		INJECTED from G:\tok\StrickPoint\app\src\main\AndroidManifest.xml
+application
+ADDED from G:\tok\StrickPoint\app\src\main\AndroidManifest.xml:5:5-19:19
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\zd\.android\build-cache\9b7180ebe0fcf707cf5fb1e336e3de070771287a\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\zd\.android\build-cache\32680f3ac30f9534f8f892948f56b563dad699c3\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\zd\.android\build-cache\5fc08684754c55190f48e9af83f2b84b81b9a318\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\zd\.android\build-cache\285bff719e561ec65babe0d0f2ba0a6534e94e33\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\zd\.android\build-cache\b5e053c67977bffd8ef0fd9204afb6a4508160b7\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\zd\.android\build-cache\5b8694cb73092eca730482648349fdcab7f497b9\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\zd\.android\build-cache\cc6bf82c86f5f3a7dfca0695dcc7b66720891fc0\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\zd\.android\build-cache\07a6ad5f05b38cae208b35a9ef6afd25b72d15bb\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\zd\.android\build-cache\5abbe193969154750909e66ff567dafd7962982a\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\zd\.android\build-cache\a259bc2e8b68410a3f6b898fb92544193d3efae5\output\AndroidManifest.xml:9:5-20
+	android:label
+		ADDED from G:\tok\StrickPoint\app\src\main\AndroidManifest.xml:8:9-41
+	android:supportsRtl
+		ADDED from G:\tok\StrickPoint\app\src\main\AndroidManifest.xml:10:9-35
+	android:roundIcon
+		ADDED from G:\tok\StrickPoint\app\src\main\AndroidManifest.xml:9:9-54
+	android:allowBackup
+		ADDED from G:\tok\StrickPoint\app\src\main\AndroidManifest.xml:6:9-35
+	android:icon
+		ADDED from G:\tok\StrickPoint\app\src\main\AndroidManifest.xml:7:9-43
+	android:theme
+		ADDED from G:\tok\StrickPoint\app\src\main\AndroidManifest.xml:11:9-40
+activity#text.tok.strickpoint.MainActivity
+ADDED from G:\tok\StrickPoint\app\src\main\AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from G:\tok\StrickPoint\app\src\main\AndroidManifest.xml:12:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from G:\tok\StrickPoint\app\src\main\AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from G:\tok\StrickPoint\app\src\main\AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from G:\tok\StrickPoint\app\src\main\AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from G:\tok\StrickPoint\app\src\main\AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from G:\tok\StrickPoint\app\src\main\AndroidManifest.xml:16:27-74
+uses-sdk
+INJECTED from G:\tok\StrickPoint\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\zd\.android\build-cache\9b7180ebe0fcf707cf5fb1e336e3de070771287a\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\zd\.android\build-cache\32680f3ac30f9534f8f892948f56b563dad699c3\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\zd\.android\build-cache\5fc08684754c55190f48e9af83f2b84b81b9a318\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\zd\.android\build-cache\285bff719e561ec65babe0d0f2ba0a6534e94e33\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\zd\.android\build-cache\b5e053c67977bffd8ef0fd9204afb6a4508160b7\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\zd\.android\build-cache\5b8694cb73092eca730482648349fdcab7f497b9\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\zd\.android\build-cache\cc6bf82c86f5f3a7dfca0695dcc7b66720891fc0\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\zd\.android\build-cache\07a6ad5f05b38cae208b35a9ef6afd25b72d15bb\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\zd\.android\build-cache\5abbe193969154750909e66ff567dafd7962982a\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\zd\.android\build-cache\a259bc2e8b68410a3f6b898fb92544193d3efae5\output\AndroidManifest.xml:5:5-7:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\zd\.android\build-cache\9b7180ebe0fcf707cf5fb1e336e3de070771287a\output\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from G:\tok\StrickPoint\app\src\main\AndroidManifest.xml
+		INJECTED from G:\tok\StrickPoint\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from G:\tok\StrickPoint\app\src\main\AndroidManifest.xml
+		INJECTED from G:\tok\StrickPoint\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\zd\.android\build-cache\9b7180ebe0fcf707cf5fb1e336e3de070771287a\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\zd\.android\build-cache\32680f3ac30f9534f8f892948f56b563dad699c3\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\zd\.android\build-cache\5fc08684754c55190f48e9af83f2b84b81b9a318\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\zd\.android\build-cache\285bff719e561ec65babe0d0f2ba0a6534e94e33\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\zd\.android\build-cache\b5e053c67977bffd8ef0fd9204afb6a4508160b7\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\zd\.android\build-cache\5b8694cb73092eca730482648349fdcab7f497b9\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\zd\.android\build-cache\cc6bf82c86f5f3a7dfca0695dcc7b66720891fc0\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\zd\.android\build-cache\07a6ad5f05b38cae208b35a9ef6afd25b72d15bb\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\zd\.android\build-cache\5abbe193969154750909e66ff567dafd7962982a\output\AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\zd\.android\build-cache\9b7180ebe0fcf707cf5fb1e336e3de070771287a\output\AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\zd\.android\build-cache\9b7180ebe0fcf707cf5fb1e336e3de070771287a\output\AndroidManifest.xml:26:9-47

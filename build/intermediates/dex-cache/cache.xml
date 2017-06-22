@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\zd\.android\build-cache\a259bc2e8b68410a3f6b898fb92544193d3efae5\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="G:\tok\StrickPoint\app\build\intermediates\pre-dexed\debug\classes_63be7a8d54c6ee5d85bbc359dbd22e7e1f6ee12c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AppData\Local\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="G:\tok\StrickPoint\app\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.2_dbc698cfea7c077128653c7c426570192cef33a6.jar" />
+    </item>
+
+</items>
